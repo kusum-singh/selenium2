@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-18T10:29:35 IST" name="Default suite" finished-at="2024-07-18T10:29:40 IST" duration-ms="5071">
+    <groups>
+    </groups>
+    <test started-at="2024-07-18T10:29:35 IST" name="Default test" finished-at="2024-07-18T10:29:40 IST" duration-ms="5071">
+      <class name="Training.Seli_Ass_1">
+        <test-method signature="testcase()[pri:0, instance:Training.Seli_Ass_1@1a6d8329]" started-at="2024-07-18T10:29:35 IST" name="testcase" finished-at="2024-07-18T10:29:40 IST" duration-ms="5038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- Training.Seli_Ass_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
